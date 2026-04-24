@@ -1,6 +1,6 @@
 # Predicting-Student-Academic-Outcomes
 
-This project trains machine learning models to predict student academic outcomes from `data.csv`.
+This project trains machine learning models to predict student academic outcomes from `Predict Students' Dropout and Academic Success` dataset.
 
 ## Run the model script
 
